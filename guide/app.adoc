@@ -22,7 +22,7 @@
 
 ====
 .로그인 화면
-image::app_images/login.jpeg[width=800]
+image::app_images/login.jpeg[height=600,width=800]
 ====
 
 ==== 비밀번호 찾기
