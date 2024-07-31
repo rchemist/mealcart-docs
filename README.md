@@ -6,3 +6,5 @@
 [MealCart 서비스 소개서]()
 
 [MealCart 관리자도구 매뉴얼](./guide/admin.html)
+
+[MealCart 앱 매뉴얼](./guide/app.html)
